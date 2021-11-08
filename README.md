@@ -1,3 +1,2 @@
 # examples-of-my-coding
-if there is a need for employers to check my code I have done this repository.
-There are both my student work and code done myself.
+if there is a need for someone to check my small projects I have done this repository.
